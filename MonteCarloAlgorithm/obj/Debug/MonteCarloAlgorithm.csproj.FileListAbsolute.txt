@@ -1,0 +1,7 @@
+C:\Users\Arnaud RIGAUT\source\repos\MonteCarloAlgorithm\MonteCarloAlgorithm\bin\Debug\MonteCarloAlgorithm.exe.config
+C:\Users\Arnaud RIGAUT\source\repos\MonteCarloAlgorithm\MonteCarloAlgorithm\bin\Debug\MonteCarloAlgorithm.exe
+C:\Users\Arnaud RIGAUT\source\repos\MonteCarloAlgorithm\MonteCarloAlgorithm\bin\Debug\MonteCarloAlgorithm.pdb
+C:\Users\Arnaud RIGAUT\source\repos\MonteCarloAlgorithm\MonteCarloAlgorithm\obj\Debug\MonteCarloAlgorithm.csprojAssemblyReference.cache
+C:\Users\Arnaud RIGAUT\source\repos\MonteCarloAlgorithm\MonteCarloAlgorithm\obj\Debug\MonteCarloAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Arnaud RIGAUT\source\repos\MonteCarloAlgorithm\MonteCarloAlgorithm\obj\Debug\MonteCarloAlgorithm.exe
+C:\Users\Arnaud RIGAUT\source\repos\MonteCarloAlgorithm\MonteCarloAlgorithm\obj\Debug\MonteCarloAlgorithm.pdb
